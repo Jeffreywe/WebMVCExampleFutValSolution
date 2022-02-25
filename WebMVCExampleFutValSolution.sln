@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCExFutVal", "WebMVCEx.FutVal\WebMVCExFutVal.csproj", "{436449D9-FFD3-49C9-9C2B-95D9F73A656E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436449D9-FFD3-49C9-9C2B-95D9F73A656E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436449D9-FFD3-49C9-9C2B-95D9F73A656E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436449D9-FFD3-49C9-9C2B-95D9F73A656E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436449D9-FFD3-49C9-9C2B-95D9F73A656E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B118490-6B24-4F9A-A71D-E9F60B1014D4}
+	EndGlobalSection
+EndGlobal
