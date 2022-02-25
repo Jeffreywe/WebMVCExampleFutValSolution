@@ -1,0 +1,19 @@
+﻿body {
+    padding: 1em; /*how much space is between the textfile to the textbox*/
+    font-family: Arial, Helvetica, sans-serif; /*how our fonts are presented*/
+}
+
+h1 {
+    margin-top: 0; /*how close can we get the textboxes to the other textboxes*/
+    color: deeppink; /*changes the color of font to specified color*/
+}
+
+label { /*changes how the labels are displayed*/
+    display: inline-block;
+    width: 10em;
+    padding-right: 1em;
+}
+
+div { /*changes how the textboxes are displayed*/
+    margin-bottom: .5em; /*changes how the textboxes are displayed from the bottom to the top*/
+}
